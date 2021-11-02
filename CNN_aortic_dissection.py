@@ -1,6 +1,7 @@
 #Programmed by Tobias Spindelboeck
-#All rights reserved
+#All rights reserved.
 #CNN ver 1.10
+#Tested with Python ver. 3.7.4, Keras ver. 2.4.3 and TensorFlow ver. 2.3.1.
 
 
 
