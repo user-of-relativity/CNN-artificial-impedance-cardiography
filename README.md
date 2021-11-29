@@ -1,7 +1,7 @@
 # CNN-artificial-impedance-cardiography
 
-The code for the convolutional neural network regarding the article 'Cross Entropy Learning for Aortic Pathology Classification of
-Multi-Sensor Impedance Cardiography Signals'. 
+The code for the convolutional neural network regarding the article 'Cross-Entropy Learning for Aortic Pathology Classification of
+Artificial Multi-Sensor Impedance Cardiography Signals'. 
 
 All rights reserved.
 
